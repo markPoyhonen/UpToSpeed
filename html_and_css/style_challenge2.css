@@ -1,0 +1,200 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color:#eaefed;
+	font-family: oxygen;
+}
+header{
+	top: 0px;
+	height: 100px;
+	background: silver;
+	width: 100%;
+	position: fixed;
+	border-bottom: 5px solid black;
+}
+.Buttons2{
+	margin-top: 20px;
+	margin-left: 220px;
+	margin-right:230px;
+}
+
+.button, .button2, .button3, .button4, .button5, .button6{
+	background: silver;
+	border: none;
+	font-family: oxygen;
+	color: black;
+	font-size: 17px;
+	padding: 5px 10px 5px 10px;
+	text-decoration: none;
+}
+
+.button:hover {
+	border-bottom: 2px solid black;
+	text-decoration: none;
+}
+.button2:hover{
+	border-bottom: 2px solid black;
+	text-decoration: none;
+}
+.button3:hover{
+	border-bottom: 2px solid black;
+	text-decoration: none;
+}
+.button4:hover{
+	border-bottom: 2px solid black;
+	text-decoration: none;
+}
+.button5:hover{
+	border-bottom: 2px solid black;
+	text-decoration: none;
+}
+.button6:hover{
+	border-bottom: 2px solid black;
+	text-decoration: none;
+}
+.columnRight{
+	border-top: 5px white;
+	float: right;
+	margin-right: 80px;
+	width: 350px;
+	height: 1000px;
+	background: darkgray;
+}
+#shoppingCart{
+	margin-left: 80px;
+	margin-top: 100px; 
+	width:200px; 
+	height:200px;
+}
+.summary{
+	margin-left: 25px;
+	width: 300px;
+	height: 300px;
+	background: #eaefed;
+}
+.purchases{
+	margin-top: 25px;
+	margin-left: 25px;
+	width: 300px;
+	height: 200px;
+	background: #eaefed;
+}
+
+.icon{
+	float: left;
+	width: 50px;
+}
+.return{
+	padding-top: 20px;
+	margin-right: 20px;
+	float: right;
+	
+}
+.container1{
+	margin-left: 200px;
+	width: 800px;
+	background: silver;
+}
+.contactBanner{
+	margin-top: 100px;
+	padding-left: 50px;
+	height: 50px;
+	background:#459e9e; 
+	font-size: 40px;
+}
+.contactContainer{
+	margin-top: 50px;
+	margin-left:10%;
+	width: 300px;
+	
+}
+.addressBanner{
+	margin-top:100px;
+	padding-left: 50px;
+	height: 50px;
+	background:#459e9e;
+	font-size: 40px;
+}
+.addressContainer{
+	width: 300px;
+	margin-top: 60px;
+	margin-left:10%;
+	font-family: oxygen;  
+}
+.residence{
+	margin-bottom: 15px;
+}
+input[type="text"] {
+    font-family: "Roboto", sans-serif;
+	outline: 0;
+	background: #f2f2f2;
+	width: 100%;
+	border: 0;
+	margin: 0 0 15px;
+	padding: 15px;
+	box-sizing: border-box;
+	font-size: 14px;
+}
+.paymentBanner{
+	margin-top:90px;
+	padding-left: 50px;
+	height: 50px;
+	background: #459e9e;
+	font-size: 40px;
+}
+
+.paymentContainer{
+	margin-left: 10%;
+	width:400px;
+	height: 300px;
+	font-size: 20px;
+}
+.payment{
+	font-family: oxygen;
+	width:400px;
+}
+.payType{
+	font-family: oxygen;
+	margin:20px .05em;
+	
+}
+.cardNumber input{
+  width:20%;
+  margin:20px .05em;
+  border-radius: 5px;
+  text-align: center;
+}
+.cardExpiration{
+  float:left;
+  width:100px;
+}
+.month {
+	text-align: center;
+	border-radius: 5px;
+	width:50px;
+}
+.year{
+	float: right;
+	text-align: center;
+	border-radius: 5px;
+	width:60px;
+}
+.cardSecurity {
+  float:right;
+  width:20%;
+  position:relative;
+ 
+}
+.csc {
+	border-radius: 5px;
+	width:22%;
+	margin:0 .5em 0 0;
+}
+footer{
+	font-family: oxygen;
+	height: 200px;
+	width: 100%;
+	background:#cccccc;
+	
+}
+
