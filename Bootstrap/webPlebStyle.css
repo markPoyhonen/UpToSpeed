@@ -1,0 +1,59 @@
+.jumbotron { 
+    background-color: #4886ea;
+    color: #ffffff;
+	padding: 100px;
+}
+.about{
+	padding: 50px;
+}
+.logo {
+    font-size: 100px;
+}
+.btn{
+	background: gray;
+}
+.contact{
+	padding: collapse;
+}
+.glyphicon.glyphicon-apple{
+    font-size: 75px;
+}
+.glyphicon.glyphicon-pencil{
+    font-size: 75px;
+}
+ .glyphicon.glyphicon-user{
+    font-size: 75px;
+}
+.glyphicon.glyphicon-hand-up{
+    font-size: 75px;
+}
+.glyphicon.glyphicon-wrench{
+    font-size: 75px;
+}
+.glyphicon.glyphicon-bold{
+    font-size: 75px;
+}
+.glyphicon.glyphicon-fire{
+    font-size: 75px;
+}
+.glyphicon.glyphicon-cloud{
+    font-size: 75px;
+}
+.glyphicon.glyphicon-scissors{
+    font-size: 75px;
+}
+
+.recource{
+	padding: 40px;
+}
+.col{
+	padding: 20px;
+}
+.tool{
+	padding: 40px;
+	border-bottom: 3px solid black;
+}
+footer{
+	background: gray;
+	padding: 50px;
+}
